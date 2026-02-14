@@ -206,6 +206,9 @@ Decentralized Systems
 <a href="https://github.com/DianaFoxington">
   <img src="https://img.shields.io/badge/GitHub-@DianaFoxington-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://diana.iceiy.com">
+  <img src="https://img.shields.io/badge/Website-diana.iceiy.com-8b5cf6?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 
 </div>
 
