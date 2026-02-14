@@ -211,19 +211,6 @@ Decentralized Systems
 
 ---
 
-### 📊 detailed stats
-
-<details>
-<summary><b>⚡ Recent Activity</b></summary>
-<br/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
 <div align="center">
 
 <!-- Reversed Black Hole -->
