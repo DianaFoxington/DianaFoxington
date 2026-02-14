@@ -280,7 +280,4 @@ Decentralized Systems
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/DianaFoxington?style=social" />
-<img src="https://img.shields.io/github/stars/DianaFoxington?style=social" />
-
 </div>
