@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Black Hole Banner -->
-<img width="100%" src="18241b14a6de0c2e52b7c147e9d3aca5.jpg" alt="Black Hole"/>
+<img width="100%" src="banner-0.jpg" alt="Black Hole"/>
 
 </div>
 
@@ -217,7 +217,7 @@ Decentralized Systems
 <div align="center">
 
 <!-- Reversed Black Hole -->
-<img width="100%" src="8c690241255d778262a39e0f9c8803a8.jpg" alt="Black Hole"/>
+<img width="100%" src="banner-1.jpg" alt="Black Hole"/>
 
 <br/>
 
